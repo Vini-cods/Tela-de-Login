@@ -1,18 +1,16 @@
-## 📚 Página de Login - SENAI SP 📚
+##  Login Page - SENAI 🔓
 
-Este repositório contém um projeto de uma página de login desenvolvida com React e JavaScript. O projeto foi criado durante o terceiro semestre do curso técnico em Desenvolvimento de Sistemas no SENAI, com o objetivo de aprimorar meus conhecimentos na linguagem e no desenvolvimento de interfaces interativas.
-
-A aplicação permite a navegação entre diferentes páginas e simula um sistema de autenticação básico. O foco principal do projeto é entender melhor o funcionamento do React, os conceitos de estado, props e rotas, além de reforçar boas práticas de desenvolvimento front-end.
+This repository contains a login page project developed using React and JavaScript during the third semester of the Technical Course in Systems Development at SENAI. The project aims to improve knowledge of React, state management, props, and routing while applying best practices in front-end development.
 
 <br> 
 
-### 💻 Tecnologias Utilizadas 💻
+### 🛠 Technologies Used    <img src="https://github.com/user-attachments/assets/39aeb7e2-5846-4b13-af10-acf623351c4e" width="20" height="20" alt="JavaScript Logo">   <img src="https://github.com/user-attachments/assets/abf68040-72f3-44b1-b936-664a7c888cf1" width="25">  <img src="https://github.com/user-attachments/assets/c956bb88-cd31-4238-ab97-8046d45f04e5" width="25" height="25" alt="CSS3 Logo">
 
-React.js: Biblioteca principal utilizada para criar a interface da página de login.
 
-JavaScript (ES6+): Linguagem utilizada para a implementação da lógica do projeto.
+* React.js – Front-end library for building the user interface.
 
-React Router: Utilizado para gerenciar a navegação entre páginas.
+* JavaScript (ES6+) – Programming language used for logic implementation.
 
-CSS: Responsável pela estilização e layout da aplicação.
+* React Router – Library for managing navigation between pages.
 
+* CSS – Used for styling and layout.
